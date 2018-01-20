@@ -1,6 +1,4 @@
 var chocolateBars = ["snickers" , "hundred grand" , "kitkat", "skittles"];
 
 
-addElementToBeginningOfArray(chocolateBars, reeces){
-
-}
+addElementToBeginningOfArray(chocolateBars, reeces);
